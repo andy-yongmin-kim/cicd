@@ -1,1 +1,1 @@
-print("friday night!!!!!!!")
+print("test")
